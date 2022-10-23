@@ -6,10 +6,13 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "npx nodemon"
   },
   "keywords": [],
   "author": "Napoleon",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
