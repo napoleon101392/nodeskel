@@ -1,6 +1,6 @@
 TODO:
 - [x] Route
-- [ ] Middleware
+- [x] Middleware
 - [ ] Controller
 - [ ] Model
 - [ ] Mailer
