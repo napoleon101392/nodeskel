@@ -1,7 +1,7 @@
 TODO:
 - [x] Route
 - [x] Middleware
-- [ ] Controller
+- [x] Controller
 - [ ] Model
 - [ ] Mailer
 - [ ] Unit testing
